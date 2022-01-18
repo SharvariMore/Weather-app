@@ -1,3 +1,4 @@
+![Screenshot (1365)](https://user-images.githubusercontent.com/83008601/149890610-bbbdeb0f-4aa8-4a58-9aa0-25e18cb20607.png)
 This is React app which displays weather conditions for a given city
 It specifies the temp in celsius alongwith the type of weather
 It specifies current date, time, month, year for given city alongiwth it's country
